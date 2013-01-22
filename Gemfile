@@ -16,3 +16,7 @@ group :development do
 end
 
 gem 'sinatra', '~> 1.3.2'
+
+gem 'libv8', '~> 3.11.8'
+gem "therubyracer"
+gem "jekyll-press"
