@@ -30,9 +30,9 @@ You can see the result of work of this plugin on this blog.
 Installation guide and details how to use it, you can find in [github repository](https://github.com/polinom/stickers-octopress) in REDME.md file.
 Feel free to contribute. There are lot of things, that can be improved. I am not a ruby-developer, so don't expect perfect and optimised code.  
 
-Youca can add your own stickers to the stickers database, so other people can use them too. Read the requirements in [README.md](https://github.com/polinom/stickers-octopress#sticker-database)
+You can add your own stickers to the stickers database, so other people can use them too. Read the requirements in [README.md](https://github.com/polinom/stickers-octopress#sticker-database)
 
-As a python-dev I’m kind of jealous that we don't have the same thing written with python language. Actually, there are some good ones, but Octopress is a great exemplar.  
+As a python-dev I’m kind of jealous that we don't have the same thing written with python language. Actually, there are some good ones, but Octopress is a great example.  
 
 
 
